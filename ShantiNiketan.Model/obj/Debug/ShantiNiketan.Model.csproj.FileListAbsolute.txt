@@ -1,0 +1,4 @@
+E:\Projects\ShantiNiketan\ShantiNiketan.Model\bin\Debug\ShantiNiketan.Model.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Model\bin\Debug\ShantiNiketan.Model.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Model\obj\Debug\ShantiNiketan.Model.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Model\obj\Debug\ShantiNiketan.Model.pdb

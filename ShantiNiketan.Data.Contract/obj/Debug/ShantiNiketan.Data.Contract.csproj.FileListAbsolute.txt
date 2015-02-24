@@ -1,0 +1,7 @@
+E:\Projects\ShantiNiketan\ShantiNiketan.Data.Contract\bin\Debug\ShantiNiketan.Data.Contract.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Data.Contract\bin\Debug\ShantiNiketan.Data.Contract.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Data.Contract\obj\Debug\ShantiNiketan.Data.Contract.csprojResolveAssemblyReference.cache
+E:\Projects\ShantiNiketan\ShantiNiketan.Data.Contract\obj\Debug\ShantiNiketan.Data.Contract.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Data.Contract\obj\Debug\ShantiNiketan.Data.Contract.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Data.Contract\bin\Debug\ShantiNiketan.Model.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Data.Contract\bin\Debug\ShantiNiketan.Model.pdb

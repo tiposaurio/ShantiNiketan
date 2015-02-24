@@ -61,3 +61,11 @@ E:\Projects\ShantiNiketan\ShantiNiketan.Web\bin\System.Web.Optimization.xml
 E:\Projects\ShantiNiketan\ShantiNiketan.Web\obj\Debug\ShantiNiketan.Web.csprojResolveAssemblyReference.cache
 E:\Projects\ShantiNiketan\ShantiNiketan.Web\obj\Debug\ShantiNiketan.Web.dll
 E:\Projects\ShantiNiketan\ShantiNiketan.Web\obj\Debug\ShantiNiketan.Web.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Web\bin\Ninject.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Web\bin\ShantiNiketan.Data.Contract.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Web\bin\ShantiNiketan.Data.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Web\bin\ShantiNiketan.Model.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Web\bin\ShantiNiketan.Data.Contract.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Web\bin\ShantiNiketan.Data.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Web\bin\Ninject.xml
+E:\Projects\ShantiNiketan\ShantiNiketan.Web\bin\ShantiNiketan.Model.pdb

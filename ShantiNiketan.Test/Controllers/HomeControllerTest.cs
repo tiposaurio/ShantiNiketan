@@ -1,6 +1,5 @@
 ﻿using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ShantiNiketan.Web;
 using ShantiNiketan.Web.Controllers;
 
 namespace ShantiNiketan.Test.Controllers

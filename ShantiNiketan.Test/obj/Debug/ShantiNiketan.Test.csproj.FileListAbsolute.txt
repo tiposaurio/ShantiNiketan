@@ -48,3 +48,11 @@ E:\Projects\ShantiNiketan\ShantiNiketan.Test\bin\Debug\System.Web.Http.Owin.xml
 E:\Projects\ShantiNiketan\ShantiNiketan.Test\obj\Debug\ShantiNiketan.Test.csprojResolveAssemblyReference.cache
 E:\Projects\ShantiNiketan\ShantiNiketan.Test\obj\Debug\ShantiNiketan.Test.dll
 E:\Projects\ShantiNiketan\ShantiNiketan.Test\obj\Debug\ShantiNiketan.Test.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Test\bin\Debug\Ninject.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Test\bin\Debug\ShantiNiketan.Data.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Test\bin\Debug\ShantiNiketan.Data.Contract.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Test\bin\Debug\ShantiNiketan.Model.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Test\bin\Debug\Ninject.xml
+E:\Projects\ShantiNiketan\ShantiNiketan.Test\bin\Debug\ShantiNiketan.Data.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Test\bin\Debug\ShantiNiketan.Data.Contract.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Test\bin\Debug\ShantiNiketan.Model.pdb

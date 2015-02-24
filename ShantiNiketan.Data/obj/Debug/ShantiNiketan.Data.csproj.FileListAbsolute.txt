@@ -1,0 +1,12 @@
+E:\Projects\ShantiNiketan\ShantiNiketan.Data\bin\Debug\ShantiNiketan.Data.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Data\bin\Debug\ShantiNiketan.Data.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Data\obj\Debug\ShantiNiketan.Data.csprojResolveAssemblyReference.cache
+E:\Projects\ShantiNiketan\ShantiNiketan.Data\obj\Debug\ShantiNiketan.Data.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Data\obj\Debug\ShantiNiketan.Data.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Data\bin\Debug\ShantiNiketan.Data.dll.config
+E:\Projects\ShantiNiketan\ShantiNiketan.Data\bin\Debug\EntityFramework.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Data\bin\Debug\ShantiNiketan.Data.Contract.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Data\bin\Debug\ShantiNiketan.Model.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Data\bin\Debug\ShantiNiketan.Data.Contract.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Data\bin\Debug\ShantiNiketan.Model.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Data\bin\Debug\EntityFramework.xml

@@ -1,0 +1,4 @@
+E:\Projects\ShantiNiketan\ShantiNiketan.Helper\bin\Debug\ShantiNiketan.Helper.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Helper\bin\Debug\ShantiNiketan.Helper.pdb
+E:\Projects\ShantiNiketan\ShantiNiketan.Helper\obj\Debug\ShantiNiketan.Helper.dll
+E:\Projects\ShantiNiketan\ShantiNiketan.Helper\obj\Debug\ShantiNiketan.Helper.pdb
